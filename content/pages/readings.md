@@ -15,11 +15,66 @@ I will not assign readings out of them. Rather, I suggest looking at them when e
 Review Readings
 ---------------
 
-| TOPICS | READINGS |
-| --- | --- |
-| Monopoly |  {{< br >}}{{< br >}} \[C&W\] Chapter 4. {{< br >}}{{< br >}} \[PRN\] Chapter 5 and 6. {{< br >}}{{< br >}}  |
-| Strategic Behavior in Oligopoly Markets |  {{< br >}}{{< br >}} \[C&W\] Chapters 7 and 8. {{< br >}}{{< br >}} \[PRN\] Chapters 9 and 10. {{< br >}}{{< br >}}  |
-| Entry |  {{< br >}}{{< br >}} \[C&W\] Chapters 14, 15, 20, and 21. {{< br >}}{{< br >}} \[PRN\] Chapters 12 and 13. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Monopoly
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[C&W\] Chapter 4.
+
+\[PRN\] Chapter 5 and 6.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Strategic Behavior in Oligopoly Markets
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[C&W\] Chapters 7 and 8.
+
+\[PRN\] Chapters 9 and 10.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Entry
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[C&W\] Chapters 14, 15, 20, and 21.
+
+\[PRN\] Chapters 12 and 13.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Readings
 -------------------

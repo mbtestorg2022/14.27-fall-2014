@@ -6,12 +6,65 @@ uid: b7249c67-247e-5cc3-eeba-3611b0c288f7
 
 Courtesy of Gaston Illanes. Used with permission.
 
-| PROBLEM SET # | SOLUTIONS |
-| --- | --- |
-|  {{< br >}}{{< br >}} [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset1) {{< br >}}{{< br >}} [Data for Problem Set 1 (XLS)]({{< baseurl >}}/resources/mit14_27f14_data_pset1) {{< br >}}{{< br >}} [Assigned Products (XLS)]({{< baseurl >}}/resources/mit14_27f14_assign_prod) {{< br >}}{{< br >}}  | [Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset1_sol) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset2) | [Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset2_sol) |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset3) | [Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset3_sol) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset4) | [Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset4_sol) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SET #
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset1)
+
+[Data for Problem Set 1 (XLS)]({{< baseurl >}}/resources/mit14_27f14_data_pset1)
+
+[Assigned Products (XLS)]({{< baseurl >}}/resources/mit14_27f14_assign_prod)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset1_sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset2_sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset3_sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset4_sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 End of Semester Project
 -----------------------
