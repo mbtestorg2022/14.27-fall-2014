@@ -40,7 +40,7 @@ Lecture slides are not available. 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Evidence on Entry and Market Structure (PDF)]({{< baseurl >}}/resources/mit14_27f14_lecslide4)
+[Evidence on Entry and Market Structure (PDF)]({{< baseurl >}}/resources/mit14_27f14_lecslide4)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +91,7 @@ Lecture slides are not available. 
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Price Search (PDF)]({{< baseurl >}}/resources/mit14_27f14_lecslide9)
+[Price Search (PDF)]({{< baseurl >}}/resources/mit14_27f14_lecslide9)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +157,7 @@ Lecture slides are not available. 
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Search Advertising / Sponsored Links (PDF - 1.3MB)]({{< baseurl >}}/resources/mit14_27f14_lecslide15)
+[Search Advertising / Sponsored Links (PDF - 1.3MB)]({{< baseurl >}}/resources/mit14_27f14_lecslide15)
 {{< tdclose >}}
 
 {{< trclose >}}

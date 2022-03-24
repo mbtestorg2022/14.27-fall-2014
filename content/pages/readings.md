@@ -91,7 +91,7 @@ Lucking-Reiley, David. "[Auctions on the Internet: What's Being Auctioned, and H
 
 Ellison, Glenn, Drew Fudenberg, et al. "[Competing Auctions](http://dx.doi.org/10.1162/154247604323015472)." _Journal of the European Economic Association_ 2, no. 1 (2004): 30–66.
 
-Byers, John W., Michael Mitzenmacher, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Daily Deals: Prediction, Social Diffusion, and Reputational Ramifications." (PDF)](http://journalistsresource.org/wp-content/uploads/2011/10/Groupon.pdf) September 7, 2011.
+Byers, John W., Michael Mitzenmacher, et al. ["Daily Deals: Prediction, Social Diffusion, and Reputational Ramifications." (PDF)](http://journalistsresource.org/wp-content/uploads/2011/10/Groupon.pdf) September 7, 2011.
 
 ———. "[The Groupon Effect on Yelp Ratings: A Root Cause Analysis](http://dx.doi.org/10.1145/2229012.2229034)." _Association for Computing Machinery_ (2012): 248–65. \[arXiv:1202.2369\]
 
@@ -107,7 +107,7 @@ Stahl II, Dale O. "[Oligopolistic Pricing with Sequential Consumer Search](http:
 
 Golder, Peter N., and Gerard J. Tellis. "[Pioneer Advantage: Marketing Logic or Marketing Legend](http://www.jstor.org/stable/3172825)?" _Journal of Marketing Research_ 30, no. 2 (1993): 158–70.
 
-Hossain, Tanjim, and John Morgan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Plus Shipping and Handling: Revenue (Non) Equivalence in Field Experiments on eBay." (PDF)](http://faculty.haas.berkeley.edu/rjmorgan/ebay.pdf) _Advances in Economic Analysis & Policy_ 6, no 2 (2006): 63–91.
+Hossain, Tanjim, and John Morgan. ["Plus Shipping and Handling: Revenue (Non) Equivalence in Field Experiments on eBay." (PDF)](http://faculty.haas.berkeley.edu/rjmorgan/ebay.pdf) _Advances in Economic Analysis & Policy_ 6, no 2 (2006): 63–91.
 
 Athey, Susan, and Glenn Ellison.  "[Position Auctions with Consumer Search](http://dx.doi.org/10.1093/qje/qjr028)." _The Quarterly Journal of Economics_ 126, no. 3 (2011): 1213–70.
 
