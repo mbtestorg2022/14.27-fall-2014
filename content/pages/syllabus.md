@@ -14,15 +14,15 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-[_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011/)
+[_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011)
 
 and either
 
-[_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+[_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013)
 
 or
 
-[_14.30 Introduction to Statistical Methods in Economics_](/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/)
+[_14.30 Introduction to Statistical Methods in Economics_](/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009)
 
 A Note from the Instructor
 --------------------------
